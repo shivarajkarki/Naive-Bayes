@@ -1,0 +1,3 @@
+now file has extra content!
+If the file already exists, opening it in write mode clears out the old data and starts fresh,
+so be careful! If the file doesn’t exist, a new one is created.hi thi si test
